@@ -12,8 +12,6 @@
 **技術:**
 - Canvas API (グリッチエフェクト)
 - IntersectionObserver API
-- jQuery
-- BudouX (日本語改行最適化)
 
 ### 2. Shuffle and Canvas Divide
 シャッフルテキストアニメーションとキャンバス分割エフェクトを実装したデモ
